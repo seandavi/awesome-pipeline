@@ -11,6 +11,7 @@ Pipeline frameworks & libraries
 * [Anduril](http://www.anduril.org/anduril/site/) - Component-based workflow framework for scientific data analysis.
 * [Antha](https://www.antha-lang.org/) - High-level language for biology.
 * [Bds](http://pcingola.github.io/BigDataScript/) - Scripting language for data pipelines.
+* [Beam](http://beam.incubator.apache.org/) - Apache incubator project; Apache Beam is an open source, unified programming model that you can use to create a data processing pipeline on various distributed backends including Flink, Spark, and Google Dataflow.
 * [Bpipe](https://github.com/ssadedin/bpipe/) - Tool for running and managing bioinformatics pipelines.
 * [Cluster flow](http://ewels.github.io/clusterflow/) - Command-line tool which uses common cluster managers to run bioinformatics pipelines.
 * [Compss](http://www.bsc.es/computer-sciences/grid-computing/comp-superscalar) - Programming model for distributed infrastructures.
